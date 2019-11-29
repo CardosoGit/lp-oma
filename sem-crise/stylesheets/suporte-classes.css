@@ -1,0 +1,124 @@
+
+/*BOTÕES*/
+
+.btn-blue{
+	background-color: 	#326599;
+	color: #FFF;
+}
+.btn-blue:hover{
+	background-color:#394B5E;
+	color:white;
+}
+.saiba-mais-btn{
+	float:right; 
+	padding:5px 10px; 
+	background-color:orange; 
+	color:white;
+}
+.saiba-mais-btn:hover{
+	background-color:#CCC; 
+	text-decoration: none;
+}
+
+/*FIM BOTÕES*/
+
+
+.justfy-content-center{
+	display: flex;
+	justify-content: center;
+}
+
+.saiba-mais-link{
+	color:orange;
+	float:right;
+	font-weight: bold;
+}
+
+.article-title{
+	text-align:center; 
+	padding:50px 0;
+}
+
+/*PLANOS*/
+.plano>div{
+	height: 200px;
+}
+.plano > div:nth-child(1){
+	 border-left:10px solid #CACAD9; 
+	 display:flex;
+}
+.plano > div:nth-child(1) > img{
+	margin: auto;
+}
+.plano > div:nth-child(2){
+	 display:flex; 
+	 align-items:center;
+}
+.plano > div:nth-child(2) > div{
+	 position:absolute; 
+	 height:50%; 
+	 width:2px; 
+	 background-color:#CACAD9; 
+	 left:-2px; 
+	 top:50px;
+}
+.plano > div:nth-child(2) a{
+	float:right; 
+	font-weight:bold; 
+	font-family:Open Sans, sans-serif;
+}
+.plano > div:nth-child(3){
+	 display:flex; 
+	 position:relative ;
+	 flex-direction:column; 
+	 align-items: center; 
+	 padding-top: 60px;
+}
+.plano > div:nth-child(3) > span{
+	font-size:25px; 
+	font-weight:bold; 
+	color: black;
+}
+.plano > div:nth-child(3) > input{
+	height: 48px; 
+	width: 155px; 
+	background-image: url(../Imagens/icon-assine-ja.png); 
+	border-radius: 10px;
+	border: none;
+	background-color: #326599; 
+	background-repeat: no-repeat; 
+	background-position: 90% center; 
+	color: white;font-size: 19px; 
+	text-align: left; 
+	padding-left: 5%;
+}
+.plano > div:nth-child(3) > input:hover{
+	background-color: #394B5E; 
+}
+
+/*FIM PLANO*/
+
+/*DESTAQUE LINK*/
+
+/*FIM DESTAQUE LINK*/
+
+/*MAPA*/
+.mapa > div > div:nth-child(2){
+	padding:0; 
+	height: 600px;
+}
+
+.mapa > div > div:nth-child(1){
+	background-color: #FFF;
+	padding:0; 
+	width: 100%;  
+	top:0px; 
+	height: 100%;
+}
+.mapa > div > div:nth-child(2) > iframe{
+	width:100%; 
+	height:100%; 
+	border:0;
+}
+
+/*FIM MAPA*/

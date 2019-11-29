@@ -1,0 +1,196 @@
+[Thu Nov 12 01:07:40.538664 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 01:07:40.539029 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 01:07:40.553041 2015] [auth_digest:notice] [pid 13] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 01:07:40.672489 2015] [mpm_prefork:notice] [pid 13] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 01:07:40.672524 2015] [core:notice] [pid 13] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 01:34:13.692612 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 01:34:13.692938 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 01:34:13.710726 2015] [auth_digest:notice] [pid 13] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 01:34:13.883640 2015] [mpm_prefork:notice] [pid 13] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 01:34:13.883671 2015] [core:notice] [pid 13] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+[Thu Nov 12 01:59:47.274017 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 01:59:47.295642 2015] [auth_digest:notice] [pid 11] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 01:59:47.274452 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 01:59:48.025796 2015] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 01:59:48.025850 2015] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 02:31:37.307687 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 02:31:37.321879 2015] [auth_digest:notice] [pid 11] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 02:31:37.308920 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 02:31:37.439728 2015] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 02:31:37.440459 2015] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+[Thu Nov 12 04:15:41.353863 2015] [so:warn] [pid 7] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 04:15:41.354233 2015] [so:warn] [pid 7] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 04:15:41.370820 2015] [auth_digest:notice] [pid 13] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 04:15:41.587690 2015] [mpm_prefork:notice] [pid 13] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 04:15:41.587719 2015] [core:notice] [pid 13] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 06:36:56.114869 2015] [so:warn] [pid 9] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 06:36:56.131282 2015] [auth_digest:notice] [pid 12] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 06:36:56.115244 2015] [so:warn] [pid 9] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 06:36:56.628487 2015] [mpm_prefork:notice] [pid 12] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 06:36:56.629114 2015] [core:notice] [pid 12] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 07:24:29.472182 2015] [so:warn] [pid 7] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 07:24:29.474082 2015] [so:warn] [pid 7] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 07:24:29.495439 2015] [auth_digest:notice] [pid 12] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 07:24:29.679351 2015] [mpm_prefork:notice] [pid 12] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 07:24:29.679412 2015] [core:notice] [pid 12] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 07:24:30.964184 2015] [:error] [pid 17] [client 198.8.90.90:5807] script '/var/www/html/oma.inf.br/web/wp-login.php' not found or unable to stat
+[Thu Nov 12 08:31:40.194634 2015] [auth_digest:notice] [pid 10] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 08:31:40.180237 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 08:31:40.180811 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 08:31:43.375479 2015] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 08:31:43.376030 2015] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 09:16:08.752992 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 09:16:08.768484 2015] [auth_digest:notice] [pid 10] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 09:16:08.753287 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 09:16:09.626078 2015] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 09:16:09.626136 2015] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 10:32:38.557680 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 10:32:38.557920 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 10:32:38.578206 2015] [auth_digest:notice] [pid 13] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 10:32:38.786322 2015] [mpm_prefork:notice] [pid 13] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 10:32:38.786354 2015] [core:notice] [pid 13] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+[Thu Nov 12 12:14:21.107745 2015] [auth_digest:notice] [pid 10] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 12:14:21.084033 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 12:14:21.084559 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 12:14:23.314978 2015] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 12:14:23.315696 2015] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 13:11:24.387574 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 13:11:24.420355 2015] [auth_digest:notice] [pid 11] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 13:11:24.388325 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 13:11:25.005897 2015] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 13:11:25.006510 2015] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+[Thu Nov 12 16:00:54.305391 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 16:00:54.305714 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 16:00:54.319675 2015] [auth_digest:notice] [pid 11] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 16:00:54.487638 2015] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 16:00:54.487686 2015] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/httpd'
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes
+[Thu Nov 12 17:23:24.922818 2015] [so:warn] [pid 7] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 17:23:24.946520 2015] [auth_digest:notice] [pid 9] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 17:23:24.923273 2015] [so:warn] [pid 7] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 17:23:25.074809 2015] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 17:23:25.074848 2015] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 18:15:17.653343 2015] [auth_digest:notice] [pid 11] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 18:15:17.625749 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 18:15:17.626125 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 18:15:18.460431 2015] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 18:15:18.460477 2015] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 18:38:41.440197 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 18:38:41.440660 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 18:38:41.466560 2015] [auth_digest:notice] [pid 13] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 18:38:41.859657 2015] [mpm_prefork:notice] [pid 13] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 18:38:41.859712 2015] [core:notice] [pid 13] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 19:35:41.685297 2015] [auth_digest:notice] [pid 10] AH01757: generating secret for digest authentication ...
+[Thu Nov 12 19:35:41.667294 2015] [so:warn] [pid 8] AH01574: module authz_core_module is already loaded, skipping
+[Thu Nov 12 19:35:41.667725 2015] [so:warn] [pid 8] AH01574: module authz_host_module is already loaded, skipping
+[Thu Nov 12 19:35:41.861045 2015] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.6 (Red Hat) configured -- resuming normal operations
+[Thu Nov 12 19:35:41.861093 2015] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/httpd'
+[Thu Nov 12 20:36:54.018167 2015] [:error] [pid 17] [client 54.174.58.199:5701] script '/var/www/html/oma.inf.br/web/helpdesk.php' not found or unable to stat
+[Thu Nov 12 20:37:59.021405 2015] [:error] [pid 18] [client 54.174.58.246:6429] script '/var/www/html/oma.inf.br/web/helpdesk.php' not found or unable to stat
+No log handling enabled - turning on stderr logging
+Created directory: /var/lib/net-snmp/mib_indexes

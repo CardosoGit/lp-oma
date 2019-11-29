@@ -1,0 +1,80 @@
+body {
+	overflow-x: hidden;
+}
+
+header {
+	display: block;
+	width: 100%;
+	height: 50px;
+	background: #cccccc;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.box, .box-reverse {
+	min-height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-wrap: wrap;
+	padding: 10vh 0;
+}
+
+.box > div {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+.box-reverse {
+	flex-wrap: wrap-reverse;
+}
+
+.box-reverse > div {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	text-align: center;
+}
+
+hr {
+	height: 5px;
+	border-bottom: 2px dashed #395F9E;
+	border-top: 2px solid #395F9E;
+}
+
+p {
+	color: #395F9E;
+	font-size: 20px;
+}
+
+.box p {
+	margin-top: 20px;
+}
+
+.box img, .box-reverse img {
+	max-width: 50vw;
+	max-height: 30vh;
+}
+
+div.solutions {
+	flex-direction: row;
+}
+
+.solutions img {
+	max-width: 20vw;
+	max-height: 30vh;
+}
+
+.navbar-brand {
+	padding: 0.2em;
+}
+
+.navbar-brand > img {
+	height: 100%;
+}

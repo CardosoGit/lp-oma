@@ -1,0 +1,164 @@
+/*GERAL*/
+
+body{
+	position:relative;
+	font-family:'Open Sans', sans-serif;
+}
+
+h1,h2,h3{
+	font-weight:bold; 
+}
+
+h3,p{
+	color: #326599;
+}
+
+
+/*FIM GERAL*/
+
+/*TOPO*/
+#tt-title-container{
+	background-color: orange !important; 
+}
+
+
+#nav-topo{
+	
+	margin-left: 150px;
+}
+/*FIM TOPO*/
+#solucoes{
+
+	padding: 40px 5%;
+	background-color: #EEEEEE;
+}
+
+#solucoes>div{
+	
+}
+#solucoes div div{
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+}
+#solucoes ul{
+	list-style: none;
+	width: 300px;
+}
+
+.form-grupo{
+
+}
+.form-grupo input{
+	width:100%;
+}
+article{
+ 	margin:0;
+ 	padding: 100px 0 0 0;
+}
+
+.content-center{
+	justify-content: center;
+	display: flex;
+}
+
+.openRodape{
+	bottom:0px;
+}
+.closeRodape{
+	bottom:260px;
+}
+
+/*Responsivo*/
+@media (max-width: 767px) {
+	.newsletter input {
+		width: 100%;
+
+	}
+	.btn-cadastre-se{
+		width: 100%;
+		background-position: 80% 5px; 
+	}
+	.newsletter img {
+		  width: 40px;
+		  height: 40px;
+		  top: 42px;
+		  left:5px;
+	}
+	.newsletter input {
+		padding-left: 70px;
+
+	}
+	#newsletter{
+		background-color: #DDD;
+  		padding-top: 20px;
+  		margin-bottom: 50px;
+	}
+	.newsletter fieldset legend {
+	  color: #206491;
+	}
+	#nav-topo{
+
+		margin-left: 0;
+	}
+}
+
+
+/*Facebook*/
+#fb-root {
+  display: none;
+}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important;
+}
+
+a.navbar-brand{
+	padding: 0;
+	margin: 0 auto;
+}
+
+a.navbar-brand img{
+	height: 30px;
+  	margin-top: 10px;
+}
+#nav-topo > a{
+	padding-left:10px; 
+	padding-right:10px; 
+	margin-top:2px; 
+	
+}
+
+/*JUMBOTRON*/
+
+#topo > div{
+
+	padding: 10px 40px;
+}
+/*FIM JUMBOTRON*/
+
+#topo > div > div:nth-child(1) > div > p{
+	font-size: 17px;
+}
+#topo > div > div:nth-child(1) > div > a{
+	margin-top:-20px;
+}
+#topo > div > div:nth-child(1) > div > h1{
+	text-align:left;
+}
+#oq-fazemos > div:nth-child(1) > div > h3{
+	
+}
+#link-suporte-empresa  a {
+	font-family: Strait,'Neue Helvetica','Segoe UI',sans-serif; 
+	text-decoration:none; 
+	color:#F8C50B; 
+	font-size:20px;
+}
+#checklist-transp   p{
+	font-size: 16px;
+}
+#checklist-transp   img{
+	display:block; 
+	margin:0 auto;
+	
+}

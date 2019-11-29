@@ -1,0 +1,111 @@
+/*GERAL*/
+
+body{
+	position:relative;
+	font-family:'Open Sans', sans-serif;
+}
+
+h1,h2,h3{
+	font-weight:bold; 
+    font-family: Square721 Cn BT;
+
+}
+
+h3,p{
+	color: #326599;
+}
+
+
+/*FIM GERAL*/
+main > div:nth-child(1){
+	height: 300px;
+}
+main > div:nth-child(2){
+	height: 200px;
+}
+main > div:nth-child(1) > div{
+	text-align: center;
+}
+main > div:nth-child(1)  h2{
+	color: #FFC926;
+	font-weight: 100;
+}
+main > div:nth-child(1)  h1{
+	color: #395F9E;
+    font-size: 70px;
+}
+.oma-jumbotrom{
+	height: 500px
+}
+.oma-jumbotrom > div{
+	display: flex;
+	height: 100%;
+}
+.oma-jumbotrom > div > div{
+	margin: auto;
+	font-size: 20px;
+    color: #395F9E;
+}
+.oma-upper-dots{
+	font-size: 100px;
+	color: #395F9E;
+	margin: 0 50px;
+}
+.destaque-text{
+	color: #395F9E;
+	font-weight: bold;
+}
+.center{
+	display: flex;
+	text-align: center;
+	justify-content:center;
+}
+hr{
+	height: 5px;
+    border-bottom: 2px dashed #395F9E;
+    border-top: 2px solid #395F9E;
+}
+
+.teste div:nth-child(4), .teste div:nth-child(5){
+	display: flex;
+	justify-content:center;
+
+}
+.teste div:nth-child(2), .teste div:nth-child(4){
+	padding: 20px 0px;
+	
+}
+.teste{
+	padding: 50px 0px;
+}
+.teste > div {
+	display: flex;
+	height: 169px;
+}
+.teste > div >div{
+	margin: auto;
+}
+main > .container{
+	height: 500px;
+	padding: 40px 0px;
+}
+@media (max-width: 430px) {
+	main > div:nth-child(1) h1 {
+		font-size: xx-large;
+	}	
+	main > .container{
+		height: auto;
+		padding: 40px 0px;
+	}
+
+}
+
+@media(max-width: 1000px){
+
+	.oma-jumbotrom  {
+		height: auto;
+	}
+    main > div:nth-child(6){
+    	height: auto;
+    }
+}

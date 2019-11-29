@@ -1,0 +1,413 @@
+
+
+
+
+
+.{
+	margin: 0 auto;
+	padding: 0;
+	font-family:'Open Sans', sans-serif;
+}
+ 
+a{
+	font-family:'Open Sans', sans-serif;
+	color: inherit;
+
+} 
+
+
+.banner-topo{
+	width: 100%;
+	height: 502px;
+	background: url("../imagens/banner-topo.gif") no-repeat center;
+	background-size: 100% 100%;
+	margin-top: 70px;
+}
+
+
+.box-shadow{
+	
+	margin-left: 50px;
+	margin-top: 80px;
+
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.30);
+    box-shadow: 1px 1px 5px #888888;
+    border-radius: 10px 10px 10px 10px;
+   
+
+}
+.box-shadow h3{
+	margin-left: 10px;
+	color:white;
+	font-family: Bradley Hand ITC;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.box-shadow ul{
+	color:white;
+	font-size: 16px;
+	list-style: inside url(../imagens/icon-correto.png);
+	margin-left: 10%;
+
+}
+.box-shadow ul li{
+	padding-bottom: 5px;
+}
+
+/*FIM CABEÇALHO*/
+
+/*INICIO CONTEUDO*/
+.section-principal{
+
+}
+.section-principal  h3{
+	margin-bottom: 100px;
+	color: #287FB8;
+
+}
+.resumo-servicos{
+	height: 400px;
+	background-color: #1F1F2C;
+	color:white;
+	padding: 5%;
+}
+
+.resumo-servicos-invert{
+	
+	padding: 5%;
+}
+.destaque-texto{
+	color:#326599;
+	font-weight: bold;
+}
+
+
+
+.resumo-servicos-invert img, .resumo-servicos img{
+	margin-top: 20px;
+}
+/*FIM CONTEUDO*/
+
+
+/*INICIO FOOTER*/
+
+.container-footer{
+	margin: 0;
+	background-color: #2C3E50;
+	color:white;
+	padding: 30px;
+	 border-top: 5px solid #326599;
+}
+.container-footer h5{
+	color:#F8C50B;
+	font-weight: bold;
+}
+.container-footer div ul  {
+	list-style: none;	
+	padding-left: 0;
+
+}
+.container-footer ul li{
+	margin-bottom: 10px;
+}
+.container-footer ul li a{
+	color:white;
+	
+	
+}
+
+
+.copyright{
+	color:black;
+	font-size: 12px;
+	padding: 5px 20px 5px 20px;
+
+}
+.btn-login {
+	display: block;
+	width: 250px;
+	padding: 5px 15px;
+	background-color: #2980B9;
+	float: right;
+}
+.btn-login span{
+	float: right;
+	color:white;
+	font-size: 20px;
+	margin-right: 15px;
+	margin-top: 5px;
+}
+#cadastre-se-login{
+	color: white;
+	float: right;
+	margin-top: 5px;
+	font-size: 18px;
+}
+/*INDEX*/
+#index{
+	margin: 0 auto;
+	margin-top:-20px; 
+	background: url('../Imagens/banner1.jpg') no-repeat; 
+	background-position-y: -450px;
+}
+/*FIM INDEX*/
+/*Geral*/
+.btn-cadastre-se{
+	padding: 10px 80px 10px 10px;
+	color: white;
+	border: none; 
+	font-size: 18px;
+	background: url("../imagens/Descargar.png") no-repeat 150px 5px;
+
+}
+
+.btn-blue{
+	background-color: #206491;
+}
+
+.btn-blue:hover{
+	background-color: #2980B9;
+}
+
+.newsletter{
+ width: 620px;
+ margin-bottom: 50px;
+
+}
+.newsletter img{
+	width: 54px;
+	height: 55px;
+	margin-right: -20px;
+	position: relative;
+	z-index: 1;
+}
+.newsletter input {
+	background-color: white;
+	border-radius: 0;
+	opacity: .50;
+	margin: 0 -4px 0 0;
+	width: 350px;
+	height: 43px;
+	text-align: center;
+	border: 1px solid #AAAAAA ;
+
+}
+.newsletter fieldset {
+	
+
+}
+.newsletter fieldset legend{
+	border: none;
+    color: rgb(119, 119, 119);
+    margin: 0;
+    font-size: 17px;
+    text-align: center;
+
+}
+.newsletter input:focus {
+	border:none;
+	color: #858594;
+	-webkit-box-shadow: 0px 0px 5px blue;
+	box-shadow: 0px 0px 5px blue;
+	opacity: 1;
+}
+
+.newsletter input::-webkit-input-placeholder {
+	color:#858594;
+}
+.newsletter input::-webkit-input-placeholder:focus {
+	
+}
+.row-fluid .span2{
+
+	margin: 0;
+}
+footer .part-elem-foot{
+
+	border-top: 1px dashed black;
+}
+
+/*FIm Geral*/
+
+/*Fale Conosco*/
+#fale-conosco{
+
+}
+.form-fale-conosco {
+	padding: 20px;
+	border-radius: 20px;
+	background-color: #EEE;
+	margin-top: 20px;
+
+}
+.form-fale-conosco label{
+	font-family: Myriad Pro ;
+	font-weight: normal;
+	margin: 0;
+	font-size: 20px;
+}
+.form-fale-conosco input{
+	display: block;
+	width: 100%;
+	height: 48px;
+	margin-bottom: 10px;
+	padding-left: 20px;
+	font-size: 16px;
+	border: 1px solid #CCCCCC;
+
+}
+.form-fale-conosco textarea{
+	display: block;
+	font-size: 16px;
+	padding-left: 20px;
+	width: 100%;
+	height: 80px;
+	margin-bottom: 10px;
+	border: 1px solid #CCCCCC;
+}
+.form-fale-conosco input[type = submit] {
+	background-color: #2980B9;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;  
+	border-radius: 12px;
+	font-family: Myriad Pro ;
+}
+.form-fale-conosco input[type = submit]:hover{
+	background-color: #AAA;
+	
+}
+#fale-conosco h3{
+	color:#333;
+}
+#unlock-map > div > div > div:nth-child(2){
+	margin: auto 0;
+}
+#fale-conosco  #unlock-map > div  ul{
+	list-style: none;
+	padding-left: 20px;
+	margin:0;
+}
+#redes-sociais > ul > li{
+	margin-bottom: 5px;
+}
+#redes-sociais > ul > li > img{
+	width:30px;
+}
+
+.img-list{
+	display: flex;
+}
+.img-list div:nth-child(1){
+	margin: auto 0;
+}
+.img-list div:nth-child(1) img{
+	width: 60px !important;
+}
+.img-list div:nth-child(2){
+	margin: auto 0;
+}
+.img-list ul{
+	list-style: none;
+	padding-left: 20px;
+	margin:0;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 80%;
+      margin: auto;
+  }
+.menu-fixo {
+		position: fixed;
+		top: 0;
+		z-index: 99;
+
+		height: 80px;
+	
+	}
+.right2{
+
+	left: auto;
+	right: 0;
+}	
+#btn-help-desk{
+	color:#2C3E50; 
+	font-weight:bold;
+}
+
+.thumb{
+	display:flex; 
+	flex-direction:column; 
+	background:none; 
+	border-radius:30px; 
+	font-size:1.1em; 
+	padding:20px;
+}
+.thumb > div:nth-child(2){
+	display:flex; 
+	flex-direction:column; 
+}
+.back-thumb{ 
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background:#eee; 
+	opacity: 0.9;
+	border-radius:30px; 
+	font-size:1.1em; 
+	padding:20px;
+	height: 100%;
+	width: 100%;
+}
+.thumb > div > div{
+	margin: auto;
+}
+.thumb > div:nth-child(2) h4{
+	text-align:center; 
+	font-weight:bold;
+}
+.thumb > div:nth-child(2) hr{
+	border-color:white;
+}
+#myCarousel{
+	margin-top: 100px;
+}
+
+
+
+/*ALTERAÇÕES BOOTSTRAP CSS*/
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus, 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.active>a {
+  background-color: #3A609E;
+  color: #FFF;
+  background-image: none;
+
+ }
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+   text-decoration: none;
+   color: #FCFCFC;
+   background-color: #3A609E;
+   background-image: none;
+}
+.navbar-fixed-top{
+	position: relative;
+}
+@media (min-width: 767px){
+	.navbar {
+		padding: 0px; 
+		-webkit-transition: none; 
+		-moz-transition: none;
+		transition: none;
+	 }
+	
+ 
+}
+@media (max-width: 767px){
+	#index{
+		background:none ;
+	}
+}
+ 
